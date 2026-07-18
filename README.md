@@ -84,8 +84,8 @@ Plataforma web empresarial diseñada para la gestión integral, trazabilidad ope
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirazopablo&show_icons=true&theme=tokyonight" alt="Pablo's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazopablo&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirazopablo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirazopablo&theme=tokyonight" alt="Profile Details" width="48%" />
 </p>
 
 ---
