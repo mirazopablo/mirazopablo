@@ -8,7 +8,7 @@
 
 ---
 
-## 🇺🇸 English Version (Default)
+## 🇺🇸 English Version
 
 ### 🚀 About Me
 Advanced **Computer Science Engineering** student and **Full Stack Developer** passionate about software architecture, distributed systems, and high availability. I specialize in designing and implementing robust backend architectures, optimizing relational databases, and deploying efficient environments using modern technologies.
