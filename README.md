@@ -1,18 +1,97 @@
-# 💫 About Me:
-Hi everyone! I'm Pablo, a Full Stack Developer and senior Computer Engineering student.<br>While I work across the full stack, my core focus lies in Backend Development and Software Architecture, particularly with Python and Java.<br>So, my stack is:<br>🚀 Focus: Backend & Architecture, I know Frontend but it isn't my focus<br><br>🛠️ Stack: Python, Java, Docker, CI/CD, ReactJS, React Native<br><br>🎓 Education: Computer Engineering Student.<br><br>📗 Actually Learning: Go backend & still React Native<br><br>I’m always open to collaborating on any of my repositories, especially on the upcoming iterations of Viking-APP—a management and traceability tool designed for IT workshops and laboratories.<br><br>Thanks for stopping by! If you have any questions or just want to chat, feel free to reach out through my social links below.
+# ¡Hola! / Hello! I'm Pablo Mirazo 👋
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-2D5A27?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-1E3F20?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Location-Mendoza,%20Argentina-3E6B3D?style=for-the-badge" alt="Location">
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pmirazo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamD3XTRO) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirazopablo@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mirazopablo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mirazopablo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirazopablo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🇺🇸 English Version (Default)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mirazopablo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🚀 About Me
+Advanced **Computer Science Engineering** student and **Full Stack Developer** passionate about software architecture, distributed systems, and high availability. I specialize in designing and implementing robust backend architectures, optimizing relational databases, and deploying efficient environments using modern technologies.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 **Education:** Computer Science Engineering (University of Mendoza).
+- 🛠️ **Current Focus:** Microservices, API Gateways, observability, and clean design patterns.
+- 🐧 **Environment:** Linux enthusiast focused on efficient, terminal-based workflows.
+
+### 📁 Featured Projects
+
+#### 🛠️ **[Viking App](https://viking-app.zondasolutions.com)**
+An enterprise web platform designed for the comprehensive management, operational traceability, and administration of IT technical workshops.
+- **Stack:** Go (Gin), React, Next.js, PostgreSQL.
+- **Key Features:** Robust architecture, public real-time repair tracking portal, and private operational dashboard with Role-Based Access Control (RBAC).
+
+---
+
+## 🇦🇷 Versión en Español
+
+<details>
+<summary><b>👉 Haz clic aquí para ver el perfil en Español / Click here to expand</b></summary>
+<br>
+
+### 🚀 Sobre Mí
+Estudiante avanzado de **Ingeniería en Informática** y **Desarrollador Full Stack** apasionado por la arquitectura de software, los sistemas distribuidos y de alta disponibilidad. Me especializo en diseñar e implementar arquitecturas sólidas en el backend, optimizar bases de datos relacionales y desplegar entornos eficientes utilizando tecnologías modernas.
+
+- 🎓 **Educación:** Ingeniería en Informática (Universidad de Mendoza).
+- 🛠️ **Enfoque actual:** Microservicios, API Gateways, observabilidad y patrones de diseño limpios.
+- 🐧 **Entorno de trabajo:** Entusiasta de Linux enfocado en flujos eficientes basados en terminal.
+
+### 📁 Proyectos Destacados
+
+#### 🛠️ **[Viking App](https://viking-app.zondasolutions.com)**
+Plataforma web empresarial diseñada para la gestión integral, trazabilidad operativa y administración de talleres de servicio técnico.
+- **Stack:** Go (Gin), React, Next.js, PostgreSQL.
+- **Características clave:** Arquitectura robusta, portal público para seguimiento de reparaciones en tiempo real y panel de administración privado con control de acceso basado en roles (RBAC).
+
+</details>
+
+---
+
+### 🛠️ Technologies & Herramientas
+
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <br>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <br>
+  <!-- Bases de Datos -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <br>
+  <!-- DevOps & Infra -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefik&logoColor=white" alt="Traefik">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirazopablo&show_icons=true&theme=tokyonight" alt="Pablo's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazopablo&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🤝 Connect with me / Contacto
+
+- 📩 **Email:** [mirazopablo@gmail.com](mailto:mirazopablo@gmail.com)
+- 💼 **LinkedIn:** [/in/pmirazo](https://linkedin.com/in/pmirazo)
+- 🌐 **Portfolio:** [mirazopablo.github.io](https://mirazopablo.github.io)
