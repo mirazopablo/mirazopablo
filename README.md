@@ -19,6 +19,11 @@ Advanced **Computer Science Engineering** student and **Full Stack Developer** p
 
 ### 📁 Featured Projects
 
+#### 📄 **[CVify - ATS Resume Builder](https://github.com/mirazopablo/CVify)**
+An open-source, privacy-first ATS-friendly Resume & CV Builder designed to generate high-quality PDFs with real-time print preview and multi-layout rendering.
+- **Stack:** TypeScript, Next.js, React, Tailwind CSS, shadcn/ui.
+- **Key Features:** Live print preview, CSS-driven ATS-friendly layouts, ATS parsing simulator, local profile management, and high-fidelity PDF export.
+
 #### 🛠️ **[Viking App](https://viking-app.zondasolutions.com)**
 An enterprise web platform designed for the comprehensive management, operational traceability, and administration of IT technical workshops.
 - **Stack:** Go (Gin), React, Next.js, PostgreSQL.
@@ -40,6 +45,11 @@ Estudiante avanzado de **Ingeniería en Informática** y **Desarrollador Full St
 - 🐧 **Entorno de trabajo:** Entusiasta de Linux enfocado en flujos eficientes basados en terminal.
 
 ### 📁 Proyectos Destacados
+
+#### 📄 **[CVify - Creador de CVs optimizado para ATS](https://github.com/mirazopablo/CVify)**
+Herramienta *Open Source* y enfocada en la privacidad para crear currículums optimizados para sistemas ATS (*Applicant Tracking Systems*) con vista previa de impresión en tiempo real.
+- **Stack:** TypeScript, Next.js, React, Tailwind CSS, shadcn/ui.
+- **Características clave:** Vista previa en vivo, plantillas ATS-friendly estructuradas en CSS puro, simulador de análisis ATS, gestión local de perfiles y exportación directa a PDF.
 
 #### 🛠️ **[Viking App](https://viking-app.zondasolutions.com)**
 Plataforma web empresarial diseñada para la gestión integral, trazabilidad operativa y administración de talleres de servicio técnico.
